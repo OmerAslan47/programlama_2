@@ -113,9 +113,9 @@ CPU:  70.0 → 48.3 → 91.7 → 55.2 → 88.4  ❌ Eski rastgele yöntem
 
 ## 👤 Geliştirici
 
-| Ad Soyad | Okul No |
-|---|---|
-| [Adınız Soyadınız] | [Okul Numaranız] |
+Ömer Aslan 255815028
+Kadir Baran Akbaba 255815022
+Emirhan Çukurkaş 255815015
 
 ---
 
